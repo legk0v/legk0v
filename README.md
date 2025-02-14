@@ -1,7 +1,22 @@
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
 
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
 
 ## Hi there 👋 My name is Andrey!
 
@@ -14,7 +29,7 @@
 
 <h3 align="left">👩‍💻  Обо мне</h3>
 
-<p align="left">Я начинающий разработчик. Мой путь в it начался c DKSTA, где я прошел 3 семестра программирования на с++. Затем я пробовал себя во многих направлениях, пробовал изучать язык C#, Python, попробовал свои силы в data science. 
+<p align="left">Я начинающий разработчик. Мой путь в it начался c KSTA, где я прошел 3 семестра программирования на с++. Затем я пробовал себя во многих направлениях, пробовал изучать язык C#, Python, попробовал свои силы в data science. 
 <br><br>- 🔭 Студент Kovrov State Technological Academy V. A. Degtyarev.
 </p>
 
